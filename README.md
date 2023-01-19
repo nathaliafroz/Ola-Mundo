@@ -1,2 +1,2 @@
-# Ola Mundo
- Primiero repositorio do curso Git GitHub
+# Olá, Mundo!
+ Primeiro repositório do curso Git e GitHub do site Curso em Video do professor Guanabara.
